@@ -1,3 +1,3 @@
 # mydemo
 My First Git repository
-Author- Komal Baid  
+Author- Komal Baid. 
